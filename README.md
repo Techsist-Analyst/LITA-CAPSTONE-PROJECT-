@@ -32,6 +32,7 @@ WHERE CONDITION = TRUE
 Measure = Sum{Sales data(salesdata Revenue})
 ### Data Visualization 
 
+IMG_20241104_201024.jpg
 
 
 
