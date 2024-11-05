@@ -19,8 +19,17 @@ The primary source of data used here is Data Sale-csv.
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis 
--Top selling Products
+- Top selling Products
 - Regional Performances
-- Monthly sales trends 
+- Monthly sales trends
+
+### Data Analysis 
+This are some basic lines of codes, queries and dax functions used during analysis 
+...SQL
+SELECT *FROM TABLE
+WHERE CONDITION = TRUE
+...POWER BI DAX FUNCTION 
+Measure = Sum{Sales data(salesdata Revenue})
+
 
  
