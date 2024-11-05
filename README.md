@@ -6,8 +6,21 @@ This data analysis project is to explore sales data and uncover key insights suc
 
 ### Data Sources: 
 The primary source of data used here is Data Sale-csv.
+
 ### Tools used
-- Microsoft Excel for data cleaning and visualization
+- Microsoft Excel for data cleaning, analysis and visualization
 - Sql for data querying
-- Power bi for data modeling,query, Dax calculations and visualization
+- Power bi for data modeling,querying, Dax calculations, analysis and visualization
 - GitHub for portfolio building.
+
+### Data Cleaning and Preparation 
+- Data loading and inspection
+- Handling missing variables
+- Data cleaning and formatting
+
+### Exploratory Data Analysis 
+-Top selling Products
+- Regional Performances
+- Monthly sales trends 
+
+ 
