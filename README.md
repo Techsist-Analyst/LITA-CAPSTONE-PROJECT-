@@ -31,6 +31,7 @@ WHERE CONDITION = TRUE
 ...POWER BI DAX FUNCTION 
 Measure = Sum{Sales data(salesdata Revenue})
 ### Data Visualization 
+IMG_20241104_201024.jpg
 
 
 
