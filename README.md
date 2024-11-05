@@ -37,6 +37,7 @@ Measure = Sum{Sales data(salesdata Revenue})
 ![17308295112963727088147109708857](https://github.com/user-attachments/assets/0a208eb6-5ac6-4752-9724-2713f6dc6dc5)
 
 
+![17308298887555928614354690835004](https://github.com/user-attachments/assets/59b716d0-8cb4-4239-873a-f5059bfc4631)
 
 
 
