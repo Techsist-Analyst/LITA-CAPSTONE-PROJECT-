@@ -33,6 +33,8 @@ Measure = Sum{Sales data(salesdata Revenue})
 ### Data Visualization 
 ![image](https://github.com/user-attachments/assets/6adf6704-b3da-4bcf-adf7-98ad0b43405c)
 
+IMG_20241104_200901.jpg
+
 
 
 
